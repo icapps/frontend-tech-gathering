@@ -1,5 +1,6 @@
 # Frontend Tech Gathering
 List of interesting topics for the Frontend Tech gathering.
+() are for assigning people like (Diemas)
 
 ## Topics
 - React + TypeScript (Tom & Benno)
@@ -9,3 +10,8 @@ List of interesting topics for the Frontend Tech gathering.
 - CSS Grid () 
 - React Suspense ()
 - NextJS ()
+- PWA ()
+
+
+### To check after official release
+- CSS Subgrid ()
