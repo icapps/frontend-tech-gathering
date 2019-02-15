@@ -9,8 +9,9 @@ List of interesting topics for the Frontend Tech gathering.
 - React Hooks ()
 - CSS Grid () 
 - React Suspense ()
-- NextJS (Diemas)
+- NextJS ()
 - PWA ()
+- JAM Stack ()
 
 
 ### To check after official release
