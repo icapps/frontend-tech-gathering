@@ -4,9 +4,9 @@ List of interesting topics for the Frontend Tech gathering.
 
 ## Topics
 - React + TypeScript (Tom & Benno)
+- React Hooks (Jelle)
 
 ### Suggestions
-- React Hooks ()
 - CSS Grid () 
 - React Suspense ()
 - NextJS ()
