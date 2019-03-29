@@ -12,6 +12,7 @@ List of interesting topics for the Frontend Tech gathering.
 - NextJS ()
 - PWA ()
 - JAM Stack ()
+- Accessibility (Fre)
 
 
 ### To check after official release
