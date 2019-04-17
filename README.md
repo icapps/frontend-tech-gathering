@@ -17,3 +17,4 @@ List of interesting topics for the Frontend Tech gathering.
 
 ### To check after official release
 - CSS Subgrid ()
+- Houdini ()
